@@ -26,3 +26,7 @@ http://localhost:8080/swagger-ui/index.html#/user-controller/addStudent
 #### 5. Invalid scenario - Empty field
 
 ![Invalid scenario](https://raw.githubusercontent.com/gvsharathbabu/springboot/master/screenshots/empty-field-invalid-scenario.png)
+
+#### 6. Junit tests
+
+![Junit tests](https://raw.githubusercontent.com/gvsharathbabu/springboot/master/screenshots/junit-tests.png)
